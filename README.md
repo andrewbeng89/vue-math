@@ -1,6 +1,6 @@
 # vue-math
 
-Demo difference in reactivity using vue.js and (HyperHTML)[https://github.com/WebReflection/hyperHTML]
+Demo difference in reactivity using vue.js and [HyperHTML](https://github.com/WebReflection/hyperHTML)
 
 ## Project setup
 ```
